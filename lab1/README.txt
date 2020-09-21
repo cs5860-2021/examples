@@ -1,4 +1,4 @@
-To execute the module in iex, type the following in your shell:
+To execute the ListSumModule module in iex, type the following in your shell:
 
 > iex ListSumModule.ex
 
